@@ -182,10 +182,12 @@ img:not(#header-img) {
 }
 
 .promo-text {
-  font-size: 2.7rem;
+  font-size: 2.2rem;
   text-align: center;
   max-width: 25rem;
-  padding: 0 1rem 1rem 0;
+  padding: 2rem;
+  font-family: Verdana, sans-serif;
+  color: rgb(0, 22, 117);
 }
 
 .map-header {
