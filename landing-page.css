@@ -74,6 +74,7 @@ form {
 
 .email-section-header {
   font-size: 3.3rem;
+  margin: 0 1rem;
 }
 
 fieldset {
@@ -239,6 +240,11 @@ img:not(#header-img) {
     flex-direction: column;
     align-items: center;
     margin: 16.5rem 0 0 0;
+  }
+
+  header {
+    padding: 0.5rem 5rem 2rem;
+    gap: 0.5rem
   }
 
   .nav-list {
