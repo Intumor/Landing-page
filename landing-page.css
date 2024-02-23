@@ -129,7 +129,7 @@ h3 {
 }
 
 
-#our-kitchen {
+#video {
   margin: 7rem auto;
 }
 
@@ -219,14 +219,14 @@ img:not(#header-img) {
     font-size: 1.6rem;
   }
 
-  #our-kitchen, #we-are-here {
+  #video, #we-are-here {
     width: 94vw;
     height: 70vh;
   }
 }
 
 @media only screen and (max-width: 560px) {
-  #our-kitchen {
+  #video {
     width: 94vw;
     height: 45vh;
   }
